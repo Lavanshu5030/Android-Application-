@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tV_Name"
+        android:text="Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tV2_Email"
+        android:text="Email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tV3_Password"
+        android:text="Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/tV4_Gender"
+
+            android:layout_height="wrap_content"
+            android:text="Gender"/>
+        <TextView
+            android:id="@+id/tV5_Month"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gender"/>
+
+        <TextView
+            android:id="@+id/tV5_rememberMe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Remember me"/>
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string name="textView1_text">Name</string>
+    <string name="textView2_text">Email-Id</string>
+    <string name="textView3_text">Password</string>
+    <string name="textView4_text">Gender</string>
+    <string name="editText1_hint">Name</string>
+    <string name="editText2_hint">Email</string>
+    <string name="editText3_hint">Password</string>
+    <string name="radioButton1_text">Male</string>
+    <string name="radioButton2_text">Female</string>
+    <string name="Button_text">Add Data</string>
+    <string name="checkBox_text">Remember me</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <dimen name="text_size">20sp</dimen>
+ <dimen name="textView_padding">10dp</dimen>
+ <dimen name="editText_minHeight">48dp</dimen>
+ <dimen name="radioButton_minHeight">48dp</dimen>
+ <dimen name="spinner_minHeight">48dp</dimen>
+ <dimen name="spinner_padding">10dp</dimen>
+<dimen name="checkBox_minHeight">48dp</dimen>
+ <dimen name= "imageView_margin">2dp</dimen>
+ <dimen name="relative_Layout_padding">10dp</dimen>
+ <dimen name="tV_textSize_Second"></dimen>
+
+</resources>
